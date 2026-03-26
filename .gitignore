@@ -1,5 +1,6 @@
 venv/
 assignment1/assignment1-dataset/
+assignment2/assignment2-dataset/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
